@@ -1,12 +1,12 @@
 # Week 1 – Building My Professional Environment
 ## Student Information
-• Name: Shiella Mae B. Rico
+• **Name:** Shiella Mae B. Rico
 
-• Course: Bachelor of Science in Information Technology
+• **Course:** Bachelor of Science in Information Technology
 
-• Section: BSIT - 4B
+• **Section:** BSIT - 4B
 
-• Date: August 07, 2026
+• **Date:** August 07, 2026
 # Objectives
 (Write your own learning objectives.)
 ---
