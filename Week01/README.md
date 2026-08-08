@@ -16,8 +16,10 @@
 List every software installed.
 ---
 # Professional Accounts
-GitHub:
-LinkedIn:
+GitHub: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shiella-mae-rico-54a43a427/)
+
+LinkedIn:[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shiellarico21@gmail.com)
+
 ---
 # Installation Screenshots
 Insert screenshots.
