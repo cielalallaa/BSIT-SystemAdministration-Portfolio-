@@ -16,8 +16,8 @@
 List every software installed.
 ---
 # Professional Accounts
-GitHub: 
-LinkedIn:(https://www.linkedin.com/in/shiella-mae-rico-54a43a427/)
+GitHub:
+LinkedIn:
 
 ---
 # Installation Screenshots
