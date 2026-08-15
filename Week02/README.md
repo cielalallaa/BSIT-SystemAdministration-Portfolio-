@@ -66,8 +66,6 @@ The hardware inventory was designed according to the needs of the 20 employees a
 | External Backup Drive | 2 | Provides offline backup storage |
 | Monitors | 20 | Provides displays for employee workstations |
 
-The required hardware inventory includes desktop computers, laptops, a server, router, switch, printer, UPS, wireless access point, NAS storage, external backup drives, and monitors.
-
 ---
 
 ## 💻 Software Inventory Summary
@@ -155,17 +153,10 @@ This project helped improve my ability to analyze IT requirements, make technica
 
 ## 📚 References
 
-### System Administration Roles
-
 - [U.S. Bureau of Labor Statistics — Computer Support Specialists](https://www.bls.gov/ooh/computer-and-information-technology/computer-support-specialists.htm)
 - [Cisco — Network Administrator](https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-administrator.html)
 - [Red Hat — Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)
 - [Microsoft Learn — Azure Administrator](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+- [Linux Foundation — LFCS](https://training.linuxfoundation.org/certification/LFCS)
 
-### Infrastructure and Security
-
-- [CISA — Small and Medium-Sized Business Resources](https://www.cisa.gov/small-and-medium-sized-business-resources)
-- [NIST — Digital Identity Guidelines](https://pages.nist.gov/800-63-4/sp800-63b.html)
-- [Microsoft — Windows Security](https://www.microsoft.com/en-us/windows/comprehensive-security)
-- [Dell Technologies — PowerEdge Servers](https://www.dell.com/en-us/shop/servers-storage-and-networking/sf/poweredge-servers)
 
