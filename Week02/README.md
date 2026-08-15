@@ -97,8 +97,6 @@ The network topology was designed using **Draw.io** and shows the logical connec
 
 ![Enterprise Network Diagram](diagrams/network-topology.png)
 
-> **Note:** Make sure your actual network diagram is saved inside the `diagrams` folder and that the filename matches the image link above.
-
 ---
 
 ## 👨‍💻 System Administration Roles
