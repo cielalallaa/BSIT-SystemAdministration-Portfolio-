@@ -46,7 +46,7 @@ ABC Startup Solutions is a newly established software development company with 2
 | Sales | 6 |
 | **Total** | **20** |
 
-The company scenario and employee distribution are based on the project requirements provided in the Week 2 activity. :contentReference[oaicite:1]{index=1}
+The company scenario and employee distribution are based on the project requirements provided in the Week 2 activity.
 
 ---
 
@@ -56,19 +56,19 @@ The hardware inventory was designed according to the needs of the 20 employees a
 
 | Hardware | Quantity | Purpose |
 |---|---:|---|
-| Desktop Computers | 16 | Primary workstations for employees |
-| Laptops | 4 | Portable workstations for selected employees |
+| Desktop Computers | 20 | Primary workstations for employees |
+| Laptops | 5 | Portable workstations for selected employees |
 | Server | 1 | Hosts company services and shared resources |
 | Router | 1 | Connects the internal network to the internet |
 | Switch | 1 | Connects wired devices within the network |
 | Printer | 2 | Provides shared printing services |
-| UPS | 2 | Provides power protection |
+| UPS | 6 | Provides power protection |
 | Wireless Access Point | 2 | Provides wireless network access |
 | NAS Storage | 1 | Provides local backup and storage |
 | External Backup Drive | 2 | Provides offline backup storage |
 | Monitors | 20 | Provides displays for employee workstations |
 
-The required hardware inventory includes desktop computers, laptops, a server, router, switch, printer, UPS, wireless access point, NAS storage, external backup drives, and monitors. :contentReference[oaicite:2]{index=2}
+The required hardware inventory includes desktop computers, laptops, a server, router, switch, printer, UPS, wireless access point, NAS storage, external backup drives, and monitors.
 
 ---
 
@@ -78,19 +78,18 @@ The software inventory includes operating systems, productivity software, develo
 
 | Software | Version | Purpose |
 |---|---|---|
-| Windows 11 Pro | 24H2 | Desktop operating system |
+| Windows 11 Pro | 25H2 | Desktop operating system |
 | Ubuntu Server | 24.04 LTS | Server operating system |
-| Microsoft 365 | Current | Productivity and office applications |
-| Visual Studio Code | Current | Code editing and software development |
-| Git | Current | Version control |
-| GitHub Desktop | Current | Git and GitHub management |
-| VirtualBox | 7.x | Virtual machine management |
-| Google Chrome | Current | Web browsing and web applications |
-| Microsoft Defender | Built-in | Antivirus and threat protection |
-| AnyDesk | Current | Remote technical support |
-| 7-Zip | 25.x | File compression and extraction |
+| Microsoft 365 | Microsoft 365 Apps | Productivity and office applications |
+| Visual Studio Code | 1.103 | Code editing and software development |
+| Git | 2.50.1 | Version control |
+| GitHub Desktop | 3.5.2 | Git and GitHub management |
+| VirtualBox | 7.2.14 | Virtual machine management |
+| Google Chrome | 139.0 | Web browsing and web applications |
+| Microsoft Defender | 4.18 | Antivirus and threat protection |
+| AnyDesk | 9.0 | Remote technical support |
+| 7-Zip | 26.02 | File compression and extraction |
 
-The Week 2 instructions specifically require Windows 11 Pro, Ubuntu Server, Microsoft Office, VS Code, Git, GitHub Desktop, VirtualBox, Google Chrome, Microsoft Defender, AnyDesk, and 7-Zip in the software inventory. :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -101,8 +100,6 @@ The network topology was designed using **Draw.io** and shows the logical connec
 ![Enterprise Network Diagram](diagrams/network-topology.png)
 
 > **Note:** Make sure your actual network diagram is saved inside the `diagrams` folder and that the filename matches the image link above.
-
-The network diagram includes the required Internet, ISP Modem, Router, Firewall, Switch, Wireless Access Point, Server, Printer, IT Department, HR Department, Finance Department, and Sales Department. :contentReference[oaicite:4]{index=4}
 
 ---
 
