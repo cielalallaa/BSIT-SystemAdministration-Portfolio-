@@ -32,7 +32,7 @@ Through this project, I learned how to:
 - **Nature of Business:** Software Development
 - **Number of Employees:** 20
 - **Office Setup:** Single Office Floor
-- **Office Location:** [Insert your fictional office location here]
+- **Office Location:** Bonifacio Global City, Taguig City, Philippines
 
 ABC Startup Solutions is a newly established software development company with 20 employees. The company currently has no computers, server, network, internet infrastructure, or security policies, so the entire IT infrastructure must be planned from scratch.
 
