@@ -125,20 +125,14 @@ These four professionals work together to maintain the company's IT environment 
 
 ## 🛠️ Technologies Used
 
-- **Windows 11 Pro** — Desktop operating system
-- **Ubuntu Server 24.04 LTS** — Server operating system
-- **Microsoft 365** — Productivity software
-- **Visual Studio Code** — Software development
-- **Git** — Version control
-- **GitHub** — Repository management
-- **GitHub Desktop** — Git management
-- **VirtualBox** — Virtualization
-- **Google Chrome** — Web browsing
-- **Microsoft Defender** — Security
-- **AnyDesk** — Remote support
-- **Draw.io** — Network diagram design
-- **Markdown** — Technical documentation
+- **Draw.io** — Used to create the enterprise network diagram.
+- **GitHub** — Used to store and manage the project repository.
+- **GitHub Desktop** — Used to manage Git commits and push project files to GitHub.
+- **Markdown** — Used to create and format the README.md documentation.
+- **Google Docs** — Used to prepare and format the Enterprise Infrastructure Plan PDF.
+- **Web Browsers** — Used to research reliable sources for the system administration roles, infrastructure recommendations, and certifications.
 
+  
 ---
 
 ## ⚠️ Challenges Encountered
