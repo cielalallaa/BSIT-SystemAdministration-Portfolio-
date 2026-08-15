@@ -46,8 +46,6 @@ ABC Startup Solutions is a newly established software development company with 2
 | Sales | 6 |
 | **Total** | **20** |
 
-The company scenario and employee distribution are based on the project requirements provided in the Week 2 activity.
-
 ---
 
 ## 🖥️ Hardware Inventory Summary
